@@ -1,0 +1,3 @@
+Studi Kasus: Pembuatan Aplikasi Peminjaman Buku Perpustakaan
+
+Anton ingin membuat sebuah aplikasi peminjaman buku di perpustakaan menggunakan konsep interface dalam pemrograman berorientasi objek (OOP) menggunakan bahasa pemrograman Java. Aplikasi ini akan memiliki beberapa entitas utama seperti Buku, Anggota, Perpustakaan, dan Transaksi Peminjaman.
